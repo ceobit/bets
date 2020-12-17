@@ -1,0 +1,50 @@
+.wrapper {
+    display: flex;
+    text-align:left;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.icon {
+    width: 16px;
+    height: 16px;
+    margin-left: 5px;
+}
+
+.detail {
+    font-family: Alegreya Sans, serif;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 16px;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+}
+
+.detail_white {
+    color: #FFF;
+}
+
+.detail_grey {
+    color: #738C99;
+}
+
+.line {
+    height: 1px;
+    width: 100%;
+    background: #2A414C;
+    margin: 7px 0;
+}
+
+.win {
+    color: #94E107;
+}
+
+.logoWrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.amountWrapper{
+    display: flex;
+    justify-content: space-between;
+    width: 130px;
+}

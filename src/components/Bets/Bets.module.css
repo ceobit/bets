@@ -1,0 +1,20 @@
+.bets_container {
+    margin: 32px 0 0 24px;
+    width: 264px;
+}
+
+.bets_title {
+    width: 48px;
+    height: 24px;
+    font-family: Alegreya Sans, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+
+    color: #B8CCD9;
+
+}

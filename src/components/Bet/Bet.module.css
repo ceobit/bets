@@ -1,0 +1,58 @@
+.wrapper {
+    display: flex;
+    text-align:left;
+    justify-content: space-between;
+}
+
+.bet_values {
+    width: 155px;
+    display: flex;
+    justify-content: space-between
+}
+
+.title_width {
+    width: 155px;
+}
+
+.icon {
+    width: 16px;
+    height: 16px;
+}
+
+.detail {
+    font-family: Alegreya Sans, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+}
+
+.detail_white {
+    color: #FFF;
+}
+
+.detail_grey {
+    color: #738C99;
+}
+
+.detail__weight_bold {
+    font-weight: bold;
+}
+
+.detail__weight_normal {
+    font-weight: normal;
+}
+
+.line {
+    height: 1px;
+    width: 100%;
+    background: #2A414C;
+    margin: 7px 0;
+}
+
+.win {
+    color: #94E107;
+    cursor: pointer;
+}
+
